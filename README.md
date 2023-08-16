@@ -1,5 +1,6 @@
 # Cita_Extension
 <p><strong>Page Cleaner Chrome Extension</strong></p>
+<p><strong>Page Cleaner Chrome Extension</strong></p>
 
 <p>This Chrome extension automatically detects and removes profanity-containing words on pages while you browse the internet. This ensures a more positive and respectful browsing experience.</p>
 
@@ -23,7 +24,7 @@
     <li>Enable "Developer mode" in the top right corner.</li>
     <li>Click on "Load unpacked" and select the downloaded directory.</li>
 </ol>
-
+<hr>
 <p><strong>Sayfa Temizleyici Chrome Eklentisi</strong></p>
 
 <p>Bu Chrome eklentisi, internet tarayıcınızda gezinirken içerisinde hakaret içeren kelimeler bulunan sayfalardaki bu kelimeleri otomatik olarak tespit eder ve siler. Bu sayede daha olumlu ve saygılı bir tarayıcı deneyimi yaşayabilirsiniz.</p>
