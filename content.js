@@ -1,4 +1,4 @@
-const targetWords = ["ibne", "salak", "mal", "gerizekali", "oruspu", "amk", "aq", "sikim", "sik", "angut", "göt", "am", "meme", "pipi", "tecavüz", "taciz", "porno", "sex"];
+const targetWords = [ "kötü kelimeler"];
 
 function makeTargetWordsTransparent() {
   const walker = document.createTreeWalker(
