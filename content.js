@@ -1,4 +1,4 @@
-const targetWords = [ "kötü kelimeler"];
+const targetWords = [ "kötü kelimeler","mal","deli","salak"];
 
 function makeTargetWordsTransparent() {
   const walker = document.createTreeWalker(
